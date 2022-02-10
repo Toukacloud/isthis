@@ -1,4 +1,4 @@
-﻿appdirs==1.4.4
+appdirs==1.4.4
 APScheduler==3.8.1
 asgiref==3.4.1
 Authlib==0.15.5
