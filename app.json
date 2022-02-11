@@ -11,8 +11,18 @@
       "value": "",
       "required": true
     },
-    "REACT_APP_BACKEND": {
+    "YARN_PRODUCTION": {
       "description": "BACKEND URL",
+      "value": "false",
+      "required": false
+    },
+    "USE_NPM_INSTALL": {
+      "description": "try x",
+      "value": "false",
+      "required": false
+    },
+    "REACT_APP_BACKEND": {
+      "description": "try f",
       "value": "",
       "required": false
     },
