@@ -11,6 +11,26 @@
       "value": "",
       "required": true
     },
+    "REACT_APP_BACKEND": {
+      "description": "BACKEND URL",
+      "value": "",
+      "required": false
+    },
+    "REACT_APP_TMDB": {
+      "description": "TMDB VALUE",
+      "value": "",
+      "required": false
+    },
+    "REACT_APP_AUTH0_DOMAIN": {
+      "description": "AUTH0 DOMAIN",
+      "value": "",
+      "required": false
+    },
+    "REACT_APP_AUTH0_CLIENT_ID": {
+      "description": "AUTH0 CLIENT_ID VALUE",
+      "value": "",
+      "required": false
+    },
     "LIBDRIVE_CLOUD": {
       "description": "The ID of any empty Google Drive folder. This folder will be used to store the config and AUTO generated metadata",
       "value": "",
