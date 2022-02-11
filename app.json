@@ -11,18 +11,8 @@
       "value": "",
       "required": true
     },
-    "YARN_PRODUCTION": {
-      "description": "BACKEND URL",
-      "value": "false",
-      "required": false
-    },
-    "USE_NPM_INSTALL": {
-      "description": "try x",
-      "value": "false",
-      "required": false
-    },
     "REACT_APP_BACKEND": {
-      "description": "try f",
+      "description": "BACKEND URL",
       "value": "",
       "required": false
     },
@@ -64,9 +54,6 @@
   },
   "image": "heroku/python",
   "buildpacks": [
-    {
-      "url": "mars/create-react-app"
-    },
     {
       "url": "heroku/python"
     }
